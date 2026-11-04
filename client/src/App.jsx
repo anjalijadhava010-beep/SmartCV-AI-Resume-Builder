@@ -15,7 +15,7 @@ import {
   WandSparkles
 } from "lucide-react";
 
-const API = "http://localhost:5000/api";
+const API = "https://smartcv-backend-y284.onrender.com/api";
 
 const initialResume = {
   fullName: "Your Name",
